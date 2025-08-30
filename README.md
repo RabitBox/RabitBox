@@ -1,7 +1,13 @@
 ## 🍛About RabitBox
 Game programmer in Japan.
+
 ### Skils
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts,js,lua,java,unity,godot,react)](https://skillicons.dev)
+
+### Projects
+- Unity/C#
+  - [SceneNavigator](https://github.com/RabitBox/Unity_SceneNavigator): 加算シーンナビゲーションサポート
+  - [ServiceLocator](https://github.com/RabitBox/ServiceLocator): C#サービスロケーター
 <!--
 **RabitBox/RabitBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
