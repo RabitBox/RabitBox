@@ -6,8 +6,8 @@ Game programmer in Japan.
 
 ### Projects
 - Unity/C# Package
-  - [SceneNavigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
-  - [ServiceLocator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
+  - [Scene Navigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
+  - [Service Locator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
 <!--
 **RabitBox/RabitBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
