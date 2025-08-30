@@ -5,7 +5,7 @@ Game programmer in Japan.
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts,js,lua,java,unity,godot,react)](https://skillicons.dev)
 
 ### Projects
-- Unity/C#
+- Unity/C# Package
   - [SceneNavigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
   - [ServiceLocator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
 <!--
