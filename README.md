@@ -1,7 +1,6 @@
 ## 🍛About RabitBox
 Game programmer in Japan.
 
-### Skils
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,ts,js,lua,java,md,unity,godot,react,p5js,gitlab)](https://skillicons.dev)
 
 ### Projects
