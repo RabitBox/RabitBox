@@ -4,9 +4,12 @@ Game programmer in Japan.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,ts,js,lua,java,md,unity,godot,react,p5js,gitlab)](https://skillicons.dev)
 
 ### Projects
-- Unity/C# Package
-  - [Scene Navigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
-  - [Service Locator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
+<details open><summary>Unity/C# Package</summary>
+  
+- [Scene Navigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
+- [Service Locator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
+
+</details>
 <!--
 **RabitBox/RabitBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
