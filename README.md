@@ -8,6 +8,7 @@ Game programmer in Japan.
   
 - [Scene Navigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
 - [Service Locator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
+- [Hex Map System](https://github.com/RabitBox/ChiliPepperHexMapSystem): ヘックスマップシステム
 
 </details>
 <!--
