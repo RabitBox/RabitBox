@@ -11,6 +11,12 @@ Game programmer in Japan.
 - [Hex Map System](https://github.com/RabitBox/ChiliPepperHexMapSystem): ヘックスマップシステム
 
 </details>
+
+<details open><summary>C++</summary>
+  
+- [StateMachine](https://gist.github.com/RabitBox/5d6c7600940502bf84498bdf7777af28): StateMachine for C++
+
+</details>
 <!--
 **RabitBox/RabitBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
