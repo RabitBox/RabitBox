@@ -14,7 +14,7 @@ Game programmer in Japan.
 
 <details open><summary>C++</summary>
   
-- [StateMachine](https://gist.github.com/RabitBox/5d6c7600940502bf84498bdf7777af28): StateMachine for C++
+- [StateMachine for C++](https://gist.github.com/RabitBox/5d6c7600940502bf84498bdf7777af28): C++向けのステートマシン
 
 </details>
 <!--
