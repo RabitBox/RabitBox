@@ -6,9 +6,9 @@ Game programmer in Japan.
 ### Projects
 <details open><summary>Unity/C# Package</summary>
   
-- [Scene Navigator](https://github.com/RabitBox/NutmegSceneNavigator): 加算シーンナビゲーションサポート
-- [Service Locator](https://github.com/RabitBox/CuminServiceLocator): C#サービスロケーター
-- [Hex Map System](https://github.com/RabitBox/ChiliPepperHexMapSystem): ヘックスマップシステム
+- [Scene Navigator](https://github.com/RabitBox/Nutmeg_SceneNavigator/releases): 加算シーンナビゲーションサポート
+- [Service Locator](https://github.com/RabitBox/Cumin_ServiceLocator/releases): C#サービスロケーター
+- [Hex Map System](https://github.com/RabitBox/ChiliPepperHexMapSystem/releases): ヘックスマップシステム
 
 </details>
 
