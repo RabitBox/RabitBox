@@ -6,8 +6,9 @@ Game programmer in Japan.
 ### Projects
 <details open><summary>【SpiceKit】Unity/C# Package</summary>
   
-- [Service Locator](https://github.com/RabitBox/Cumin_ServiceLocator/releases): C#サービスロケーター
-- [Hex Map System](https://github.com/RabitBox/ChiliPepperHexMapSystem/releases): ヘックスマップシステム
+- [Cumin.ServiceLocator](https://github.com/SpiceKit/Cumin.ServiceLocator)
+- [Chili.HexGrid](https://github.com/SpiceKit/Chili.HexGrid)
+- [Mustard.ShuffleBag](https://github.com/SpiceKit/Mustard.ShuffleBag)
 
 
 </details>
