@@ -6,10 +6,9 @@ Game programmer in Japan.
 ### Projects
 <details open><summary>【SpiceKit】Unity/C# Package</summary>
   
-- [Scene Navigator](https://github.com/RabitBox/Nutmeg_SceneNavigator/releases): 加算シーンナビゲーションサポート
 - [Service Locator](https://github.com/RabitBox/Cumin_ServiceLocator/releases): C#サービスロケーター
 - [Hex Map System](https://github.com/RabitBox/ChiliPepperHexMapSystem/releases): ヘックスマップシステム
-- [Scenario System](https://github.com/RabitBox/Paprika_ScenarioSystem/releases): 会話イベントシステム
+
 
 </details>
 
